@@ -1,11 +1,11 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 4K
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="SUPERCOPA 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" ,Eleven Sports 1 4K
+#EXTINF:-1 group-title="SUPERCOPA 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" ,Supercopa 1080
 http://127.0.0.1:6878/ace/getstream?id=8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
-EXTINF:-1 group-title="SUPERCOPA 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" ,Eleven Sports 1 4K
+EXTINF:-1 group-title="SUPERCOPA 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" ,Supercopa 1080
 http://127.0.0.1:6878/ace/getstream?id=c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
-EXTINF:-1 group-title="SUPERCOPA 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" ,Eleven Sports 1 4K
+EXTINF:-1 group-title="SUPERCOPA 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png" ,Supercopa 720
 http://127.0.0.1:6878/ace/getstream?id=a16f0078ccb46ba65aaa175ad823e47ec31ab464
 #EXTINF:-1 group-title="4K" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/Y9fdmnqC/golmundial4k.png" ,Gol Mundial 4K
 http://127.0.0.1:6878/ace/getstream?id=fc138340e045615c18f678acd5d045aec7e630a8
